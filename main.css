@@ -1,0 +1,86 @@
+.shocks{
+    background-color: rgb(250, 194, 110);
+}
+
+.display {
+    text-align: center;
+    margin-top:3%;
+    font-size: 50px;
+    color: grey;
+    
+}
+.dips {
+    font-style: italic;
+    font-family:serif;
+}
+
+.biryani {
+
+    border: auto;
+   left: 50%;
+   max-width: 40%;
+    margin: auto;
+    display:block;
+    margin-top: 25px;
+
+    
+    
+}
+
+.section-dark {
+    max-width: 100%;
+    margin-top: 10%;
+}
+
+.menu {
+    height: 200px;
+  
+}
+button.coolstuffbtn {
+    background-color:red;
+    color: white;
+    display: block;
+    margin: auto;
+    margin-top: 02%;
+}
+h1 {
+    text-align: center;
+    margin-top:2%;
+    font-size:50px;
+    color:rgb(15, 4, 107)
+  
+}
+.imgcenter {
+    display: block;
+    margin: auto;
+    padding: 2rem;
+    width: 100%;
+}
+.imgst {
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+.btn-primary.btn {
+    display: block;
+    margin: auto;
+    padding: 0.5rem;
+    margin-top: 2%;
+    margin-bottom:20%;
+    width: 73%;
+
+
+}
+.modal-body {
+    display: block;
+    margin: auto;
+    margin-right: 20%;
+    width: 100%;
+}.modal-content {
+    background-color:black;
+}.btn-close {
+    background-color:white;
+}
+.modal-content-1 {
+    background-color:rgb(139, 138, 146);
+}
